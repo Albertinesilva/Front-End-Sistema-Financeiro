@@ -60,25 +60,25 @@ O projeto segue a estrutura padrão Angular:
 git clone https://github.com/Albertinesilva/front-end-sistema-financeiro
 ```
 
-2.Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
 
 ```bach
 cd front-end-sistema-financeiro
 ```
 
-3.Instale as dependências:
+3. Instale as dependências:
 
 ```bach
 npm install
 ```
 
-4.Execute o projeto:
+4. Execute o projeto:
 
 ```bach
 ng serve
 ```
 
-5.Acesse no navegador:
+5. Acesse no navegador:
 
 ```bach
 http://localhost:4200
